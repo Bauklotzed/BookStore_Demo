@@ -1,0 +1,15 @@
+好好研究
+utils.DaoFactory
+utils.JdbcUtils
+utils.WebUtils
+分页
+domain.Page
+service.impl.BusinessServiceImpl    getBookPageData方法
+web.manager.BookServlet上传文件
+import org.apache.commons.fileupload.disk.DiskFileItemFactory类
+left.jsp
+filter包
+ResultSetHandler<T>         http://commons.apache.org/proper/commons-dbutils/apidocs/org/apache/commons/dbutils/ResultSetHandler.html
+------------------------------------------------------------------------
+
+首先，部署描述符必须被命名为web.xml并且位于WEB-INF目录下，Java类必须放置在WEB-INF/classes目录下，而Java类库必须位于WEB-INF/lib目录下
